@@ -1,7 +1,7 @@
 # Kacau
 Crack fb versi beta, result belom ada yah, soal gw pake wifi :(
 
-> [!TIP]
+> Instalisasi
 1. pkg update -y && pkg upgrade -y
 2. pkg install python -y
 3. pkg install git -y
